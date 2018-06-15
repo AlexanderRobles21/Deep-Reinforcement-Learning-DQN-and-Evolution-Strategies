@@ -1,4 +1,4 @@
-# dqn-NES-Pong
+# DQN-NES-Pong
 This is a repository for project in MO810 course-1s2018 IC-UNICAMP. The project is about implement DQN, NES and policy gradients for Pong and Catch game.
 <br />
 
