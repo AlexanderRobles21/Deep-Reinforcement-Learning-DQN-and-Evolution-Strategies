@@ -20,7 +20,7 @@ Python 3.5, PyTorch >= 0.2.0, numpy, gym, universe, cv2.
 * `main.py` : Train ES on Pong and achieved **reward = 5** after 72 hours of training. Functions from `train.py`, `envs.py` , `model.py`
 
 ```
-python3 main.py --env-name PongDeterministic-v4 --n 10 --lr 0.01 --useAdam
+python3 main.py --env-name Pong-v4 --n 10 --lr 0.01 --useAdam
 ```
 
 * `catch_ES.ipynb`: NES implementation for catch game! See results in flie. 
